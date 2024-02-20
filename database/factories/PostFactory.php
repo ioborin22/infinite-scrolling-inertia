@@ -9,6 +9,8 @@ use Illuminate\Database\Eloquent\Factories\Factory;
  */
 class PostFactory extends Factory
 {
+    private static $dateIncrement = 0;
+
     /**
      * Define the model's default state.
      *
@@ -17,7 +19,9 @@ class PostFactory extends Factory
     public function definition(): array
     {
         return [
-            //
+            'title' => fake()->sentence(),
+            'teaser' => fake()->sentence(30),
+            'created_at' => now()->subDays(100)->addDays(self::$dateIncrement++),
         ];
     }
 }
