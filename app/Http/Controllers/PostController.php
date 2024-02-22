@@ -13,6 +13,7 @@ class PostController extends Controller
         $posts = Post::latest()->cursorPaginate();
 
         if($request->wantsJson()) {
+
             return PostResource::collection($posts);
         }
 
