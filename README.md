@@ -49,7 +49,7 @@ Copy `.env.example` to `.env` and configure your database connection:
 
 Run migrations and seed the database:
 
-`php artisan migrate:fresh --seed`
+`php artisan migrate --seed`
 
 ## Usage
 
