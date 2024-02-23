@@ -1,12 +1,16 @@
 # Infinite Scrolling with Inertia.js
 
+## About
+
+This repository provides a comprehensive codebase for implementing infinite scrolling within a Laravel + Vue + Inertia.js application. It showcases a seamless integration of the Laravel backend with Vue.js frontend using Inertia.js as the bridge, to create an efficient and smooth infinite scrolling experience.
+
 ## DOWN
 
-![DOWN](https://ioborin22.com/DOWN-ezgif.com-video-to-webp-converter.webp)
+![DOWN](https://ioborin22.com/DOWN-ezgif.com-optimize.gif)
 
 ## UP
 
-![UP](https://ioborin22.com/UP-ezgif.com-video-to-webp-converter.webp)
+![UP](https://ioborin22.com/UP-ezgif.com-video-to-gif-converter.gif)
 
 ## Features
 
