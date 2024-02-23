@@ -29,10 +29,10 @@ git clone https://github.com/your-repository/infinite-scrolling-inertia.git
 
 Navigate to the project directory:
 
-`cd infinite-scrolling-inertia`
-`composer install`
-`npm install`
-`npm run dev`
+- `cd infinite-scrolling-inertia`
+- `composer install`
+- `npm install`
+- `npm run dev`
 
 3. **Environment Setup**
 
