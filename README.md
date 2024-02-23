@@ -1,6 +1,6 @@
 # Infinite Scrolling with Inertia.js
 
-## About
+## DOWN
 
 ![DOWN](https://ioborin22.com/DOWN-ezgif.com-optimize.gif)
 
