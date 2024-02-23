@@ -1,4 +1,4 @@
-# Infinite Scrolling with Inertia.js
+# Infinite Scrolling with Inertia.js (Laravel + Vue + Inertia.js)
 
 ## About
 
