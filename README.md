@@ -29,17 +29,21 @@ git clone https://github.com/your-repository/infinite-scrolling-inertia.git
 
 Navigate to the project directory:
 
-- `cd infinite-scrolling-inertia`
-- `composer install`
-- `npm install`
-- `npm run dev`
+`cd infinite-scrolling-inertia`
+
+`composer install`
+
+`npm install`
+
+`npm run dev`
 
 3. **Environment Setup**
 
 Copy `.env.example` to `.env` and configure your database connection:
 
-- `cp .env.example .env`
-- `php artisan key:generate`
+`cp .env.example .env`
+
+`php artisan key:generate`
 
 4. **Database Migration and Seeding**
 
