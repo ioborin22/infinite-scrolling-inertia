@@ -37,7 +37,7 @@ php artisan key:generate
 
 Run migrations and seed the database:
 
-php artisan migrate --seed
+`php artisan migrate:fresh --seed`
 
 ## Usage
 

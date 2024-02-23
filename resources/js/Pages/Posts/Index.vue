@@ -1,6 +1,6 @@
 <template>
 
-    <Head title="Posts"/>
+    <Head title="Infinity Scroll Down"/>
     <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
         <div class="space-y-4 max-w-xl mx-auto p-6 bg-white dark:bg-gray-800 shadow-md rounded-lg">
             <div v-for="post in posts.data" :key="post.id" class="p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 transition duration-300 ease-in-out">
