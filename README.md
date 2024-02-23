@@ -2,7 +2,9 @@
 
 ## About
 
-This repository provides a comprehensive codebase for implementing infinite scrolling within a Laravel + Vue + Inertia.js application. It showcases a seamless integration of the Laravel backend with Vue.js frontend using Inertia.js as the bridge, to create an efficient and smooth infinite scrolling experience. The code is fully explained in the tutorial available at [https://www.youtube.com/watch?v=q0LoukuvcPU&t=574s](https://www.youtube.com/watch?v=q0LoukuvcPU&t=574s).
+![DOWN](https://ioborin22.com/DOWN-ezgif.com-optimize.gif)
+
+
 
 ## Features
 
