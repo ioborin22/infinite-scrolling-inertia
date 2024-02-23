@@ -6,11 +6,11 @@ This repository provides a comprehensive codebase for implementing infinite scro
 
 ## DOWN
 
-![DOWN](https://ioborin22.com/DOWN-ezgif.com-optimize.gif)
+![DOWN](https://ioborin22.com/infinite-scrolling-inertia/DOWN-ezgif.com-optimize.gif)
 
 ## UP
 
-![UP](https://ioborin22.com/UP-ezgif.com-video-to-gif-converter.gif)
+![UP](https://ioborin22.com/infinite-scrolling-inertia/UP-ezgif.com-video-to-gif-converter.gif)
 
 ## Features
 
