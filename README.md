@@ -23,7 +23,7 @@ This repository provides a comprehensive codebase for implementing infinite scro
 
 1. **Clone the Repository**
 
-git clone https://github.com/your-repository/infinite-scrolling-inertia.git
+`git clone https://github.com/your-repository/infinite-scrolling-inertia.git`
 
 2. **Install Dependencies**
 
