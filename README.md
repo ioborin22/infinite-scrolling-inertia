@@ -1,7 +1,5 @@
 # Infinite Scrolling with Inertia.js (Laravel + Vue + Inertia.js)
 
-![DOWN](https://ioborin22.com/infinite-scrolling-inertia/infinite-scrolling-inertia.svg)
-
 ## About
 
 This repository provides a comprehensive codebase for implementing infinite scrolling within a Laravel + Vue + Inertia.js application. It showcases a seamless integration of the Laravel backend with Vue.js frontend using Inertia.js as the bridge, to create an efficient and smooth infinite scrolling experience.
