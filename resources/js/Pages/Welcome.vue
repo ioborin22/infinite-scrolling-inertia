@@ -66,9 +66,7 @@ defineProps({
                                 Down</h2>
 
                             <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Laravel has wonderful documentation covering every aspect of the framework. Whether you
-                                are a newcomer or have prior experience with Laravel, we recommend reading our
-                                documentation from beginning to end.
+                                This block features an infinite scroll with inertia, displaying 100 posts downwards.
                             </p>
                         </div>
 
@@ -91,9 +89,7 @@ defineProps({
                             <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Infinity Scroll Up</h2>
 
                             <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript
-                                development. Check them out, see for yourself, and massively level up your development
-                                skills in the process.
+                                This block features an infinite scroll with inertia, displaying 100 posts upwards.
                             </p>
                         </div>
 
