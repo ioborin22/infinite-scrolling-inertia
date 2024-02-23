@@ -55,7 +55,7 @@ Run migrations and seed the database:
 
 Start the Laravel server:
 
-php artisan serve
+`php artisan serve`
 
 
 Visit `http://localhost:8000` to view the application. Enjoy infinite scrolling functionality integrated with Laravel + Vue + Inertia.js.
