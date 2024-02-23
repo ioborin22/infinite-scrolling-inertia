@@ -38,8 +38,8 @@ Navigate to the project directory:
 
 Copy `.env.example` to `.env` and configure your database connection:
 
-cp .env.example .env
-php artisan key:generate
+- `cp .env.example .env`
+- `php artisan key:generate`
 
 4. **Database Migration and Seeding**
 
